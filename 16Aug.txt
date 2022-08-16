@@ -1,0 +1,33 @@
+Learning about Golang today to do better for the interview tomorrow.
+I still haven't completely made it through the go tour but I think I should finish it.
+
+A quote that has been on my mind lately -
+"I don't just want to live
+I don't just want to fight 
+I want to win" 
+this is by my favorite chatacter - Ichigo Kurosaki
+
+//maps in Golang
+//slice 
+//make function
+//input and output of a function
+//switch statement 
+//go routine
+
+for the past week I've been only focusing on Golang and I think I should continue with
+the DSA part too. 
+
+Today is 16th Aug, 2022
+months left for 2023 : Sep, Oct, Nov, Dec.
+total months left: 4(30*4 = 120 days approximately)
+
+Only 32.6% of the year is left
+i.e. approximately 70% of the year has gone by and 
+the DSA is still not finished.
+
+
+This is a worrisome situtation in my opinion
+I'd like to make time and figure out ways to learn the DSA concepts 
+and Practise them to crack some great companies.
+
+
